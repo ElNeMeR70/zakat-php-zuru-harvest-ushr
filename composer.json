@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/zakat-php-zuru-harvest-ushr",
+  "description": "Agricultural Zuru' & Thimar Ushr (10% / 5% / 7.5%) Calculator (حاسبة زكاة الزروع والثمار بالعشر أو نصف العشر)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
